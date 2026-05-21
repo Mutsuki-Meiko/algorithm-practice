@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // shortest path algorithm
 // branch update
+// improve output formatting
 class FlowerNumber{
     public static void main(String[] args){
         Scanner stdIn = new Scanner(System.in);
